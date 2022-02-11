@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 #### 👨‍💻 My state:
 
 ![](https://github.com/codewithvk/testnomial/blob/master/generated/languages.svg)
-![](https://github.com/codewithvk/testnomial/blob/master/generated/overview.svg)
+![](https://github.com/poommin2543/poommin2543/blob/main/overview.svg)
