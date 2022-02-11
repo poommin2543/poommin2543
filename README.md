@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 <!--#### 👨‍💻 My state:
 
 ![](https://github.com/codewithvk/testnomial/blob/master/generated/languages.svg)
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 [![Stats](https://github-readme-stats.vercel.app/api?username=poommin2543)](https://github.com/poommin2543)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poommin2543&layout=compact)](https://github.com/poommin2543)
 #### Other Social Medias
-🐦 [Twitter](https://twitter.com/rainlink) | 💼 [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧 [Email](poommin2543@gmail.com)
+🐦  💼 [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧 [Email](mailto:poommin2543@gmail.com)
