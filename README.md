@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 👨‍💻 My state:
+
+![](https://github.com/codewithvk/testnomial/blob/master/generated/languages.svg)
+![](https://github.com/codewithvk/testnomial/blob/master/generated/overview.svg)
