@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 #### 👨‍💻 MyStats ####
 [![Stats](https://github-readme-stats.vercel.app/api?username=poommin2543)](https://github.com/poommin2543)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poommin2543&layout=compact)](https://github.com/poommin2543)
+#### Other Social Medias
+🐦 [Twitter](https://twitter.com/rainlink) | 💼 [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧 [Email](poommin2543@gmail.com)
