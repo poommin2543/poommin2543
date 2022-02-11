@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 #### 👨‍💻 MyStats ####
 [![Stats](https://github-readme-stats.vercel.app/api?username=poommin2543)](https://github.com/poommin2543)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poommin2543&layout=compact)](https://github.com/poommin2543)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=poommin2543&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 #### Other Social Medias
 🐦  💼 [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧 [Email](mailto:poommin2543@gmail.com)
