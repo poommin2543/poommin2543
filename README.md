@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://github.com/poommin2543/poommin2543/blob/main/overview.svg)-->
 #### 👨‍💻 MyStats ####
 [![Stats](https://github-readme-stats.vercel.app/api?username=poommin2543)](https://github.com/poommin2543)
-
+![](https://github.com/poommin2543/poommin2543/blob/main/languages.svg)
 [<img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 
 #### Other Social Medias
