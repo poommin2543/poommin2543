@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 👨‍💻 My state:
+<!--#### 👨‍💻 My state:
 
 ![](https://github.com/codewithvk/testnomial/blob/master/generated/languages.svg)
-![](https://github.com/poommin2543/poommin2543/blob/main/overview.svg)
-#### Stats
+![](https://github.com/poommin2543/poommin2543/blob/main/overview.svg)-->
+#### 👨‍💻 MyStats ####
 [![Stats](https://github-readme-stats.vercel.app/api?username=poommin2543)](https://github.com/poommin2543)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poommin2543&layout=compact)](https://github.com/poommin2543)
