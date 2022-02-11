@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ![](https://github.com/codewithvk/testnomial/blob/master/generated/languages.svg)
 ![](https://github.com/poommin2543/poommin2543/blob/main/overview.svg)
+#### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=poommin2543)](https://github.com/poommin2543)
