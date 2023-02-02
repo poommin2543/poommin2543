@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 #### Other Social Medias
-🐦  💼 [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧 [Email](mailto:poommin2543@gmail.com)
+🐦  💼 [LinkedIn]([https://www.linkedin.com/in/oscar-1ms/](https://www.linkedin.com/in/poommin-phinphimai-825146185/)) | 📧 [Email](mailto:poommin2543@gmail.com)
